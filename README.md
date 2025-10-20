@@ -1,12 +1,12 @@
-# Name: 
+# Name: Trevor Orduna
 
 ## About Me
-* School Email: 
-* Dream Career: 
-* Hidden Talent: 
+* School Email: orduna4039@durhamtech.edu
+* Dream Career: video game designer/producer
+* Hidden Talent: video games, snaker cleaning. 
 
 ## Course Information
-* Semester: 
+* Semester: 3rd semester at durhman tech
 * Course Name: CSC 118 - Swift Fundamentals I
 * Institution: [Durham Technical Community College](https://www.durhamtech.edu/)
 * Textbook: [Develop in Swift Fundamentals Xcode 15](https://books.apple.com/us/book/develop-in-swift-fundamentals/id6468967906)
